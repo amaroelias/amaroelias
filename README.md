@@ -1,6 +1,7 @@
-## Olá! Sou estudante de Programação e apoixonado por Tecnologia e Games 💥                                                                                                Cursando Sistemas de Informação - UFPB 📚
+### Olá! Sou estudante de Programação e apoixonado por Tecnologia e Games 💥
+### Cursando Sistemas de Informação - UFPB 📚
 
-### - 💻 Estudando Python, Java & Spring Boot
+#### - 💻 Estudando Python, Java & Spring Boot
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amaro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
