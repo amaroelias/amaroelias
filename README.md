@@ -1,5 +1,5 @@
-#### Olá! Sou estudante de Programação e apoixonado por Tecnologia e Games 💥
-#### Cursando Sistemas de Informação - UFPB 📚
+### Olá! Sou estudante de Programação e apoixonado por Tecnologia e Games 💥
+### Cursando Sistemas de Informação - UFPB 📚
 
  - 💻 Estudando Python, Java & Spring Boot
 
