@@ -1,4 +1,4 @@
-## Hello, guys! 
+## Hello guys! 
 
 ### ∙ Cursando Sistemas de Informação - UFPB 📚
 ### ∙ Estudando Python, Java & Spring Boot 💻
