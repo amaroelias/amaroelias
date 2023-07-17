@@ -1,4 +1,4 @@
-### Olá! Sou estudante de Programação 💥
+### Hello, guys! 
 ### Cursando Sistemas de Informação - UFPB 📚
 
 #### - 💻 Estudando Python, Java & Spring Boot
