@@ -1,7 +1,7 @@
 ## Hello guys! 
 
 ### ∙ Cursando Sistemas de Informação - UFPB 📚
-### ∙ Estudando Python, Java & Spring Boot , JavaScript & React💻
+### ∙ Estudando Python, Java, Spring Boot , JavaScript, React💻
 ### ∙ 🎮 + ⚽ = 🖤🤍!
 
 <div style="display: inline_block"><br>
