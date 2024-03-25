@@ -1,7 +1,7 @@
 ## Hello guys! 
 
 ### ∙ Information Systems - UFPB 📚
-### ∙ Soccer + Games = ![Uploading image.png…]()
+### ∙ Soccer + Games = ♡♥
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
