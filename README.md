@@ -3,11 +3,9 @@
 ### ∙ Information Systems - UFPB 📚
 ### ∙ Soccer + Games = 🤍🖤
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
 
-
-## My Stacks!
+## My Stacks:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amaro-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -20,9 +18,8 @@
   <img align="center" alt="Amaro-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-  
-  ##
- 
+## Contact:
+
 <div> 
   <a href="https://www.instagram.com/amaroelias_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:amaro.espirito@dcx.ufpb.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
