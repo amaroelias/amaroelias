@@ -4,7 +4,6 @@
 ### ∙ Estudando Python, Java, Spring Boot , JavaScript, React💻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
