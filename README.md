@@ -4,9 +4,7 @@
 ### ∙ Estudando Python, Java, Spring Boot , JavaScript, React💻
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaroelias&layout=donut)](https://github.com/amaroelias)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amaro-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
