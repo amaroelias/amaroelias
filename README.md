@@ -1,6 +1,6 @@
 ## Hello guys! 
 
-<img align="center" alt="Amaro-html" height="50" width="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1342061&psig=AOvVaw2IKquD0ygEXYZdQeTIXmp9&ust=1711765667999000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi3rpa2mIUDFQAAAAAdAAAAABAE">
+<img align="center" alt="Amaro-html" height="150" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1342061&psig=AOvVaw2IKquD0ygEXYZdQeTIXmp9&ust=1711765667999000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi3rpa2mIUDFQAAAAAdAAAAABAE">
 
 
 ### ∙ Information Systems - UFPB 📚
