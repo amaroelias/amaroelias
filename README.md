@@ -1,6 +1,6 @@
 ## Hello guys! 
 
-<img align="center" alt="Amaro-html" height="150" width="300" src="https://images.wallpapersden.com/image/download/sung-jin-woo-digital-solo-leveling_bmdnam6UmZqaraWkpJRmbmdsrWZlbWU.jpg">
+<img align="center" alt="Amaro-html" height="600" width="900" src="https://images.wallpapersden.com/image/download/sung-jin-woo-digital-solo-leveling_bmdnam6UmZqaraWkpJRmbmdsrWZlbWU.jpg">
 
 
 ### ∙ Information Systems - UFPB 📚
