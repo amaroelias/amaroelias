@@ -32,6 +32,6 @@
 
 <div> 
   
-  <a href = "mailto:amaro.espirito@dcx.ufpb.br"><img height="40" width="140" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:amaroeliasdev@gmail.com"><img height="40" width="140" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
