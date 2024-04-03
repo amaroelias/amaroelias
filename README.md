@@ -6,8 +6,6 @@
 </div>
 <p>&nbsp;</p>
 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amaroelias&theme=algolia)](https://github.com/amaroelias)
 
