@@ -1,5 +1,4 @@
-|                  Título Centralizado                 |
-
+<h2 align="center">Título Centralizado</h2>
 
 
 ## Hello everyone! welcome to my GitHub.
