@@ -1,16 +1,7 @@
 <h2 align="center">Hello everyone! welcome to my GitHub.</h2>
 
 
-<img align="center" alt="Amaro-html" height="300" width="470" src="https://images.wallpapersden.com/image/download/sung-jin-woo-digital-solo-leveling_bmdnam6UmZqaraWkpJRmbmdsrWZlbWU.jpg">
-
-
-### ∙ Information Systems - UFPB 📚
-### ∙ Soccer + Games = 🤍🖤
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
-
-
 
 
 ## My stacks:
@@ -25,7 +16,6 @@
   <img align="center" alt="Amaro-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Amaro-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-
 
 
 ## Contact:
