@@ -11,6 +11,7 @@
 
 
 <p>&nbsp;</p>
+
 ## My stacks:
 
 <div style="display: inline_block"><br>
@@ -25,6 +26,7 @@
 </div>
 
 <p>&nbsp;</p>
+
 ## Contact:
 
 <div> 
