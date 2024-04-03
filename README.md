@@ -6,8 +6,11 @@
 </div>
 <p>&nbsp;</p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amaroelias&theme=algolia)](https://github.com/amaroelias)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=amaroelias&theme=algolia)](https://github.com/amaroelias)
+  
+</div>
 
 
 <p>&nbsp;</p>
