@@ -7,11 +7,14 @@
 ### ∙ Information Systems - UFPB 📚
 ### ∙ Soccer + Games = 🤍🖤
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
+</div>
+
 
 <h2 align="center">My stacks:</h2>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Amaro-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Amaro-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Amaro-typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -24,7 +27,7 @@
 
 <h2 align="center">Contact:</h2>
 
-<div> 
+<div align="center"> 
   
   <a href = "mailto:amaro.espirito@dcx.ufpb.br"><img height="50" width="150" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
