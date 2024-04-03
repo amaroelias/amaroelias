@@ -11,6 +11,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
 
 
+
+
 ## My stacks:
 
 <div style="display: inline_block"><br>
@@ -23,6 +25,8 @@
   <img align="center" alt="Amaro-angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
   <img align="center" alt="Amaro-python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
+
+
 
 ## Contact:
 
