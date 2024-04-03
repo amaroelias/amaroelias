@@ -7,9 +7,9 @@
 ### ∙ Information Systems - UFPB 📚
 ### ∙ Soccer + Games = 🤍🖤
 
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaroelias&show_icons=true&theme=algolia)](https://github.com/amaroelias)
+
 
 
 <h2 align="center">My stacks:</h2>
