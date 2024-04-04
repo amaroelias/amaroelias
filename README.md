@@ -9,9 +9,11 @@
 <p>&nbsp;</p>
 
 <div align="center">
-  
+  <a href="https://github.com/amaroelias">
+    
   [![GitHub Streak](https://streak-stats.demolab.com/?user=amaroelias&theme=algolia)](https://github.com/amaroelias)
   
+  </a>
 </div>
 
 
