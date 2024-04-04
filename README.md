@@ -37,5 +37,7 @@
   <a href="https://www.linkedin.com/in/amaroelias-dev/" target="_blank"><img height="36" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:amaroeliasdev@gmail.com" target="_blank"><img height="36" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/amaroeliass/" target="_blank"><img height="36" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://exemplo.com/pagina_destino" target="_blank">Clique aqui para abrir em uma nova aba</a>
+
 
 </div>
