@@ -2,9 +2,7 @@
 
 <p>&nbsp;</p>
 <div align="center">
-  <a href="https://github.com/amaroelias">
-    <img src="https://media1.tenor.com/m/TE2_-xvv3uwAAAAC/anime-adam-apple.gif" alt="Sung JinWoo">
-  </a>
+  <a href="https://github.com/amaroelias"><img src="https://media1.tenor.com/m/TE2_-xvv3uwAAAAC/anime-adam-apple.gif" alt="Sung JinWoo"></a>
 </div>
 <p>&nbsp;</p>
 
@@ -21,30 +19,15 @@
 <h2 align="center">My stacks:</h2>
 
 <div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/amaroelias">
-      <img href="https://github.com/amaroelias" align="center" alt="html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   </a>
-  <a href="https://github.com/amaroelias">
-      <img href="https://github.com/amaroelias" align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  </a>
-  <a href="https://github.com/amaroelias">
-      <img href="https://github.com/amaroelias" align="center" alt="typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  </a>
-  <a href="https://github.com/amaroelias">
-      <img href="https://github.com/amaroelias" align="center" alt="react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  </a>
-  <a href="https://github.com/amaroelias">
-      <img href="https://github.com/amaroelias" align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </a>
-  <a href="https://github.com/amaroelias">
-      <img href="https://github.com/amaroelias" align="center" alt="spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  </a>
-  <a href="https://github.com/amaroelias">
-      <img href="https://github.com/amaroelias" align="center" alt="angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  </a>
-  <a href="https://github.com/amaroelias">
-      <img href="https://github.com/amaroelias" align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"></a>
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"></a>
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
 </div>
 
 <p>&nbsp;</p>
