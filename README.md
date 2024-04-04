@@ -35,5 +35,8 @@
 <div align="center"> 
   
   <a href="mailto:amaroeliasdev@gmail.com"><img height="40" width="140" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https//instagram.com/amaroeliass/"><img height="40" width="140" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href=""><img height="40" width="140" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href=""><img height="40" width="140" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
