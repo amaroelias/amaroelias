@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 <div align="center">
-  <img src="https://media1.tenor.com/m/TE2_-xvv3uwAAAAC/anime-adam-apple.gif" alt="Sung JinWoo">
+  <img href="https://github.com/amaroelias" src="https://media1.tenor.com/m/TE2_-xvv3uwAAAAC/anime-adam-apple.gif" alt="Sung JinWoo">
 </div>
 <p>&nbsp;</p>
 
