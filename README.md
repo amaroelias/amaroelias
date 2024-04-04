@@ -23,8 +23,8 @@
   <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></a>
   <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="react" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></a>
-  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </a>
+  <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/ja
+  va-original.svg"></a>
   <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"></a>
   <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"></a>
   <a href="https://github.com/amaroelias"><img href="https://github.com/amaroelias" align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
